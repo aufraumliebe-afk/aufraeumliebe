@@ -6,8 +6,8 @@
 //   "slug": "kueche-schubladen-chaos",         -> file at posts/kueche-schubladen-chaos.html
 //   "title": "...",
 //   "hook": "...",                              -> 1-line teaser shown on the card
-//   "category": "kueche",                        -> must match a data-category value in index.html
-//   "categoryLabel": "Küche",
+//   "category": "zimmer-guides",                  -> one of: zimmer-guides, ausmisten-minimalismus, putzroutinen, ratgeber
+//   "categoryLabel": "Zimmer-Guides",
 //   "image": "assets/img/kueche-schubladen.jpg",
 //   "date": "2026-08-14"
 // }
