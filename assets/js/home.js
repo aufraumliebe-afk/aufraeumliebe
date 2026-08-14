@@ -1,5 +1,5 @@
 // Loads assets/posts.json and renders the homepage post grid + category filter.
-// To add a new post: add one entry to assets/posts.json — no HTML editing needed here.
+// To add a new post: add one entry to assets/posts.json. No HTML editing needed here.
 //
 // Entry shape:
 // {
@@ -29,7 +29,7 @@
     const filtered = filter === 'alle' ? posts : posts.filter(p => p.category === filter);
 
     if (!filtered.length) {
-      grid.innerHTML = '<p class="empty-state">Bald gibt es hier neue Beiträge – schau bald wieder vorbei! ♡</p>';
+      grid.innerHTML = '<p class="empty-state">Bald gibt es hier neue Beiträge. Schau bald wieder vorbei! ♡</p>';
       return;
     }
 
