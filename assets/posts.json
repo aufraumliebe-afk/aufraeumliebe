@@ -1,5 +1,95 @@
 [
   {
+    "slug": "ausmisten-methoden-falsche-wahl",
+    "title": "Schon die dritte Ausmisten-Methode ausprobiert, und trotzdem wieder im Chaos gelandet?",
+    "hook": "Erst die Kisten-Methode, dann KonMari, dann ein Motivations-Video auf Pinterest, und trotzdem sieht dein Schrank in ein paar Monaten wieder…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/ausmisten-methoden-vergleich-chaos.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "minimalismus-gewohnheiten-putzt-umsonst",
+    "title": "Du putzt und putzt, und trotzdem wirkt dein Zuhause nie wirklich sauber?",
+    "hook": "Ein farbcodierter Putzplan, eine To-do-App fürs Aufräumen, und nach ein paar Wochen ist trotzdem wieder alles beim Alten. Das liegt nicht…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/minimalismus-gewohnheiten-ueberfordert.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "5-kisten-methode-druck-raus",
+    "title": "Behalten oder wegwerfen? Genau diese Entscheidung blockiert dich beim Ausmisten",
+    "hook": "Jedes Teil in die Hand nehmen und sofort zwischen behalten und wegwerfen entscheiden, genau das lässt die meisten Ausmist-Aktionen nach 20…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/5-kisten-methode-druck-raus.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "abstellkammer-einrichten-chaos",
+    "title": "Neue Regale gekauft, und die Abstellkammer sieht trotzdem chaotisch aus?",
+    "hook": "Ein neues Regalsystem fühlt sich nach der Lösung an, bis wenige Wochen später wieder alles kreuz und quer steht. Der Fehler passiert fast…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/abstellkammer-einrichten-chaos-ende.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "badezimmer-spiegelschrank-ueberfuellt",
+    "title": "Dein Spiegelschrank quillt über, und trotzdem findest du nie das Richtige?",
+    "hook": "Drei halbleere Sonnencremes im Unterschrank, ein Hustensaft, der seit zwei Jahren abgelaufen ist, und trotzdem ständig das Gefühl, es fehlt…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/badezimmer-organisieren-ueberfuellt.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "handtuecher-falten-nie-wie-hotel",
+    "title": "Deine gefalteten Handtücher sehen nie so aus wie im Hotel?",
+    "hook": "Der erste Versuch, Handtücher wie im Hotel zu falten, sieht bei den meisten eher aus wie ein missglückter Wäscheunfall. Das liegt fast nie…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/handtuecher-falten-wie-zuhause.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "hauswirtschaftsraum-organisieren-eng",
+    "title": "Dein Hauswirtschaftsraum ist winzig, fensterlos, und einfach nicht zu organisieren?",
+    "hook": "Vier Quadratmeter, kein Tageslicht, eine Tür, die nach innen aufgeht und ein Drittel der Fläche blockiert. Klingt nach einem hoffnungslosen…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/hauswirtschaftsraum-organisieren-eng.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "homeoffice-organisieren-chaos-tisch",
+    "title": "Dein Schreibtisch ist morgens aufgeräumt, und nach 2 Stunden wieder komplett voll?",
+    "hook": "Kabel unter dem Tisch, drei Ordner, die du irgendwann noch brauchst, und ein Zettel-Chaos, das sich täglich neu aufbaut. Ein aufgeräumter…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/homeoffice-organisieren-chaos-tisch.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kapselgarderobe-erstellen-zuviel-kleidung",
+    "title": "Kapselgarderobe erstellt, und nach ein paar Wochen ist der Schrank trotzdem wieder voll?",
+    "hook": "Die Auswahl der 30 bis 40 Teile klingt nach dem großen Schritt, ist aber tatsächlich der leichte Teil. Was in den meisten Anleitungen…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kapselgarderobe-erstellen-zuviel.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kinderzimmer-organisieren-2-wochen",
+    "title": "Neues Ordnungssystem im Kinderzimmer, und nach 2 Wochen ist wieder alles Chaos?",
+    "hook": "Ein hübsch beschriftetes Regalsystem mit lauter kleinen Schubladen sieht aus wie im Katalog, bis ein vierjähriges Kind die winzigen…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kinderzimmer-organisieren-zwei-wochen.png",
+    "date": "2026-09-01"
+  },
+  {
     "slug": "kleiderschrank-zu-voll",
     "title": "Dein Kleiderschrank platzt aus allen Nähten, egal wie viele Boxen du kaufst?",
     "hook": "Das Problem liegt fast nie am fehlenden Organizer. Es liegt an etwas ganz anderem.",
