@@ -1,5 +1,104 @@
 [
   {
+    "slug": "medikamentenschrank-10min-suche",
+    "title": "Fieberzäpfchen gesucht, 10 Minuten im Medikamentenschrank verloren?",
+    "hook": "Drei angebrochene Hustensaft-Flaschen, ein Fieberthermometer ohne Batterie, und ganz hinten eine Packung Ibuprofen, die schon Jahre…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/medikamentenschrank-10min-suche.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "ordnung-routine-immer-dieselbe-ecke",
+    "title": "15 Minuten am Tag, und trotzdem bleibt immer dieselbe Ecke liegen?",
+    "hook": "Fast jeder Ratgeber sagt dasselbe: 15 Minuten am Tag reichen. Das stimmt sogar, hilft aber nichts, wenn du täglich neu entscheiden musst,…",
+    "category": "putzroutinen",
+    "categoryLabel": "Putzroutinen",
+    "image": "assets/img/ordnung-routine-immer-dieselbe-ecke.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "ordnung-schwer-halten-2-wochen",
+    "title": "Zwei Wochen nach dem großen Aufräumen sieht es wieder aus wie vorher?",
+    "hook": "Boxen gekauft, Schränke ausgemistet, ein Wochenende investiert, und trotzdem sieht es zwei Wochen später wieder aus wie vorher. Der…",
+    "category": "ratgeber",
+    "categoryLabel": "Ratgeber",
+    "image": "assets/img/ordnung-schwer-halten-2-wochen.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "pareto-prinzip-chaos-berg",
+    "title": "Du stehst vor dem Chaos und weißt nicht, wo du anfangen sollst?",
+    "hook": "Wer sich vornimmt, die ganze Wohnung oder endlich mal richtig aufzuräumen, sieht vor allem eins: einen riesigen, unüberwindbaren Berg. Die…",
+    "category": "ratgeber",
+    "categoryLabel": "Ratgeber",
+    "image": "assets/img/pareto-prinzip-chaos-berg.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "sachen-spenden-volles-auto",
+    "title": "Volles Auto, aber die Kleiderkammer nimmt gerade nichts an?",
+    "hook": "Letzte Woche ging ein Karton zur Kleiderkammer des DRK, und dabei kam eine wichtige Lektion zutage: Vorher anrufen lohnt sich, denn die…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/sachen-spenden-volles-auto.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "schlafzimmer-stuhl-kleiderschrank",
+    "title": "Der Stuhl im Schlafzimmer ist zum zweiten Kleiderschrank geworden?",
+    "hook": "Jahrelang war der Stuhl im Zimmer die Person, die kurz mal die Wäsche über den Stuhl gelegt hat, bis daraus ein zweiter Kleiderschrank…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/schlafzimmer-stuhl-kleiderschrank.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "schublade-kueche-schwer-zu",
+    "title": "Die Besteckschublade lässt sich nur noch mit Schwung zuschieben?",
+    "hook": "Beim Suchen nach dem Sparschäler wühlst du jedes Mal durch dasselbe Kuddelmuddel? Die Lösung ist selten ein neuer Schubladeneinsatz,…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/schublade-kueche-schwer-zu.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "vorratskammer-6-wochen-chaos",
+    "title": "Vorratsschrank frisch organisiert, nach 6 Wochen wieder Chaos?",
+    "hook": "Am Anfang sieht es aus wie im Katalog, einheitliche Dosen, hübsche Etiketten. Nach sechs Wochen steht wieder eine offene Nudelpackung quer…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/vorratskammer-6-wochen-chaos.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "waschmittel-kapseln-risiko",
+    "title": "Waschmittelkapseln standen offen im Regal, in Reichweite eines Kindes?",
+    "hook": "Kapseln standen jahrelang offen auf dem Regal über der Maschine, in Reichweite eines Wäschekorbs, auf den ein neugieriges Kleinkind zu…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/waschmittel-kapseln-risiko.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "wie-oft-ausmisten-nie-genug",
+    "title": "Einmal im Jahr komplett ausgemistet, und trotzdem nie genug?",
+    "hook": "Der Frühjahrsputz-Mythos hält sich hartnäckig: ein Wochenende, das ganze Haus, fertig für zwölf Monate. Ehrlich gesagt, es funktioniert…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/wie-oft-ausmisten-nie-genug.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "wohnzimmer-sammelt-alles",
+    "title": "Couchtisch, Kabelchaos, Kissenberge, dein Wohnzimmer sammelt einfach alles?",
+    "hook": "Fernbedienungen, Ladekabel, Zeitschriften, halbleere Teetassen, der Couchtisch ist bei den meisten ein Magnet für alles, was gerade keinen…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/wohnzimmer-sammelt-alles.png",
+    "date": "2026-09-01"
+  },
+  {
     "slug": "kleiderschrank-ausmisten-raster",
     "title": "Gefällt dir noch, aber du trägst es nie? Genau da scheitern die meisten Ausmist-Versuche",
     "hook": "Die meisten Anleitungen fragen nur, ob dir etwas noch gefällt, aber genau die Teile, bei denen ja, eigentlich mag ich das und ich trage es…",
