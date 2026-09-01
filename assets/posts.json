@@ -1,5 +1,95 @@
 [
   {
+    "slug": "kleiderschrank-ausmisten-raster",
+    "title": "Gefällt dir noch, aber du trägst es nie? Genau da scheitern die meisten Ausmist-Versuche",
+    "hook": "Die meisten Anleitungen fragen nur, ob dir etwas noch gefällt, aber genau die Teile, bei denen ja, eigentlich mag ich das und ich trage es…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/kleiderschrank-ausmisten-raster-vergleich.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kleiderschrank-organisieren-drei-gruende",
+    "title": "Kleiderschrank x-mal umgeräumt, und trotzdem wieder Chaos?",
+    "hook": "Es liegt fast nie am fehlenden Stauraum. Drei Dinge sorgen dafür, dass Kleiderschränke immer wieder im Chaos enden: kein festes System, nie…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kleiderschrank-organisieren-drei-gruende.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "falten-vertikal-umkippen",
+    "title": "T-Shirts vertikal gefaltet, und trotzdem kippt alles um?",
+    "hook": "Falte es einfach dreimal klingt einfach, funktioniert in der Praxis aber selten auf Anhieb. Die meisten Anleitungen sagen nicht, wie viele…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/falten-vertikal-umkippen.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kleine-kueche-organizer-voll",
+    "title": "Noch ein Organizer gekauft, und deine kleine Küche ist trotzdem voll?",
+    "hook": "Wer in eine zu volle Küche neue Organizer hineinstellt, sortiert das Chaos meistens nur um. Fast jeder Küchen-Ratgeber startet sofort bei…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kleine-kueche-organizer-voll.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kleines-bad-standardtipps",
+    "title": "Dein Bad hat keinen Schrank, und die üblichen Tipps helfen einfach nicht?",
+    "hook": "Die üblichen Tipps lauten: Schrank kaufen, Körbe stapeln, ausmisten. Klingt logisch, hilft aber wenig, wenn schlicht keine Bodenfläche für…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kleines-bad-standardtipps.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "konmari-methode-stecken-geblieben",
+    "title": "KonMari ausprobiert, und trotzdem beim Kleiderschrank stecken geblieben?",
+    "hook": "Kondos Bild vom großen amerikanischen Haus mit viel Bodenfläche passt selten zu einer 50 oder 60 Quadratmeter Wohnung in einer deutschen…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/konmari-methode-stecken-geblieben.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kueche-organisieren-sparschaeler",
+    "title": "Schon wieder nach dem Sparschäler gewühlt? Deine Küche braucht die richtige Reihenfolge",
+    "hook": "Jahrelang wurde in überfüllten Schubladen nach dem Sparschäler gewühlt, bis klar wurde, dass Küche organisieren kein einmaliges Projekt…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kueche-organisieren-sparschaeler.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "toepfe-pfannen-umraeumen",
+    "title": "Für die eine Pfanne musst du erst drei andere umräumen?",
+    "hook": "In der ersten Mietwohnung gab es einen einzigen Unterschrank für sämtliches Kochgeschirr, und jedes Mal, wenn die Gusseisenpfanne gebraucht…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/toepfe-pfannen-umraeumen.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kuehlschrank-schimmel-frage",
+    "title": "Käse schimmelt oben genauso schnell wie unten? Dein Kühlschrank tickt anders",
+    "hook": "Jahrelang wurde nach dem klassischen Zonen-Schema eingeräumt, bis ein neuer Kühlschrank mit Umluftkühlung ins Haus kam, und die…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kuehlschrank-schimmel-frage.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "schminktisch-ruckgabekorb",
+    "title": "Deine Make-up-Schublade sieht aus wie ein Rückgabekorb?",
+    "hook": "Drei angetrocknete Mascaras, eine Foundation, deren Öffnungsdatum längst nicht mehr bekannt war, und Lidschatten-Paletten, die seit Jahren…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/schminktisch-ruckgabekorb.png",
+    "date": "2026-09-01"
+  },
+  {
     "slug": "ausmisten-methoden-falsche-wahl",
     "title": "Schon die dritte Ausmisten-Methode ausprobiert, und trotzdem wieder im Chaos gelandet?",
     "hook": "Erst die Kisten-Methode, dann KonMari, dann ein Motivations-Video auf Pinterest, und trotzdem sieht dein Schrank in ein paar Monaten wieder…",
