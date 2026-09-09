@@ -1,5 +1,32 @@
 [
   {
+    "slug": "buecherregal-ordnen-methode-vergleich",
+    "title": "Bücherregal ordnen nach der richtigen Methode",
+    "hook": "Dein Bücherregal sieht nach dem Sortieren toll aus, und zwei Wochen später findest du kein einziges Buch mehr wieder?",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/buecherregal-ordnen-methode-vergleich.webp",
+    "date": "2026-09-09"
+  },
+  {
+    "slug": "kabel-verstecken-fernseher-chaos",
+    "title": "Kabel verstecken am Fernseher richtig angehen",
+    "hook": "Kabelkanal gekauft, und der Kabelsalat hinter dem Fernseher sieht trotzdem chaotisch aus?",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kabel-verstecken-fernseher-chaos.webp",
+    "date": "2026-09-09"
+  },
+  {
+    "slug": "winterkleidung-aufbewahren-ohne-keller",
+    "title": "Winterkleidung aufbewahren ohne Keller",
+    "hook": "Kein Keller, kein Dachboden, und trotzdem stapelt sich die Winterkleidung im Schlafzimmerschrank?",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/winterkleidung-aufbewahren-ohne-keller.webp",
+    "date": "2026-09-09"
+  },
+  {
     "slug": "medikamentenschrank-10min-suche",
     "title": "Medikamentenschrank ausmisten und sortieren",
     "hook": "Drei angebrochene Hustensaft-Flaschen, ein Fieberthermometer ohne Batterie, und ganz hinten eine Packung Ibuprofen, die schon Jahre…",
