@@ -1,5 +1,41 @@
 [
   {
+    "slug": "schuhe-aufbewahren-flur-chaos",
+    "title": "Schuhe aufbewahren nach Schuhtyp",
+    "hook": "Über 30 Paar Schuhe im Flur, und trotzdem knicken deine Sneaker ständig ein?",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/schuhe-aufbewahren-flur-chaos.webp",
+    "date": "2026-09-12"
+  },
+  {
+    "slug": "schluesselleiste-ablage-kommode-chaos",
+    "title": "Schlüsselleiste mit Ablage richtig einrichten",
+    "hook": "Schlüsselboard gekauft, und trotzdem landen Schlüssel und Post jeden Abend auf der Kommode?",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/schluesselleiste-ablage-kommode-chaos.webp",
+    "date": "2026-09-12"
+  },
+  {
+    "slug": "kinderschreibtisch-einrichten-krumm-sitzen",
+    "title": "Kinderschreibtisch einrichten mit der richtigen Höhe",
+    "hook": "Neuer Kinderschreibtisch gekauft, und dein Kind sitzt trotzdem krumm davor?",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kinderschreibtisch-einrichten-krumm-sitzen.webp",
+    "date": "2026-09-12"
+  },
+  {
+    "slug": "aufbewahrungskorb-wohnzimmer-dritter-korb",
+    "title": "Aufbewahrungskorb Wohnzimmer nach Material wählen",
+    "hook": "Schon den dritten Aufbewahrungskorb gekauft, und trotzdem stapeln sich Decken und Kissen wieder?",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/aufbewahrungskorb-wohnzimmer-dritter-korb.webp",
+    "date": "2026-09-12"
+  },
+  {
     "slug": "buecherregal-ordnen-methode-vergleich",
     "title": "Bücherregal ordnen nach der richtigen Methode",
     "hook": "Dein Bücherregal sieht nach dem Sortieren toll aus, und zwei Wochen später findest du kein einziges Buch mehr wieder?",
